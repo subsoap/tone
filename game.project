@@ -1,0 +1,12 @@
+[project]
+title = Tone
+
+[bootstrap]
+main_collection = /example/example.collectionc
+
+[input]
+game_binding = /example/input.input_bindingc
+
+[script]
+shared_state = 1
+
