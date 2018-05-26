@@ -1,2 +1,2 @@
-# tone
-A simple, convenient sound play for Defold
+# Tone
+A simple, convenient sound player for Defold
